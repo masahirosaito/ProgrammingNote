@@ -776,7 +776,9 @@ public class Main {
 |double |java.lang.Double |
 |char |java.lang.Char |
 |boolean |java.lang.Boolean |
+
 ※ Javaにはラッパークラスのインスタンと基本データ型のデータを相互に自動変換する機能が備わっている。
+
 ```java
 import java.util.ArrayList;
 
